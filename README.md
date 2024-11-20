@@ -1,3 +1,10 @@
+#-------IMPORTANT NOTICE------------
+#this code only educational perpose only 
+#not a use any hacking purposes 
+
+
+
+
 # keylogger
 # who to create a keylogger in python using code .. 
 # -------------*********-----------*********--------- 
