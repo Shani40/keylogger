@@ -6,7 +6,7 @@
 
 
 # keylogger
-# who to create a keylogger in python using code .. 
+# How to create a keylogger in python using code .. 
 # -------------*********-----------*********--------- 
 # frist 1: step command 
 # Ensure that you have the keyboard library installed 
